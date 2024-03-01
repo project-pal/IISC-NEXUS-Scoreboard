@@ -1,10 +1,20 @@
 // score-parser.js
 
+fetchScores();
+setInterval(fetchScores, 60000);
+
 async function fetchScores() {
-    const response = await fetch('scores.csv');
+    // Add a cache buster to the URL to prevent caching
+    const cacheBuster = new Date().getTime();
+    const response = await fetch('scores.csv?_='+cacheBuster);
+    if (!response.ok) {
+        console.error("Failed to fetch scores:", response.statusText);
+        return;
+    }
     const data = await response.text();
     parseCSV(data);
 }
+
 
 function parseCSV(csv) {
     const lines = csv.trim().split('\n');
