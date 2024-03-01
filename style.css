@@ -93,6 +93,7 @@ h1 {
     }
 }
 
+
 /* Landscape Orientation */
 @media (max-width: 600px) and (orientation: landscape) {
     h1 {
