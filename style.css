@@ -116,3 +116,23 @@ h1 {
         background-color: #3e5569;
     }
 }
+
+.footer {
+    padding: 10px 0;
+    background-color: #34495e; /* Match the color scheme of your page */
+    color: #ecf0f1;
+    text-align: center;
+    font-size: 14px;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer a {
+    color: #3498db; /* A color that stands out, but still fits the overall design */
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
