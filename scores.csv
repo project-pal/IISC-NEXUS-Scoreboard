@@ -1,14 +1,24 @@
 Event,ATLANTIS,GOTHAM,ASGARD,WAKANDA
-Volleyball,67,133,55,55
+Volleyball,77,133,55,55
 Headcount Morning,60,40,100,80
-Box Cricket,92,64,64,136
-Badminton,0,0,0,0
-Chess,0,0,0,0
+Badminton,123,120,141,88
+MS,0,0,0,0
+MD,0,0,0,0
+MX,0,0,0,0
+WS,0,0,0,0
+WD,0,0,0,0
+Chess,12,18,30,27
 Carroms,0,0,0,0
-Table Tennis,0,0,0,0
-Headcount Afternoon,0,0,0,0
+Headcount Afternoon,80,80,100,60
+Table Tennis,51,72,54,57
+MS,0,0,0,0
+MD,0,0,0,0
+MX,0,0,0,0
+WS,0,0,0,0
+Enthu points Day1,60,40,80,100
 Lawn Tennis,0,0,0,0
-Football,0,0,0,0
+Box Cricket,92,64,64,136
+Football,49,46,83,127
 100m,0,0,0,0
 200m,0,0,0,0
 400m Relay,0,0,0,0
@@ -17,5 +27,8 @@ PICTIONARY,0,0,0,0
 Flip Cup,0,0,0,0
 Dumb Charades,0,0,0,0
 Tug Of War,0,0,0,0
-MEME OF THE DAY,0,0,0,0
-PIC OF THE DAY,0,0,0,0
+MEME OF THE DAY 1,0,0,0,0
+PIC OF THE DAY 1,0,0,0,0
+MEME OF THE DAY 2,0,0,0,0
+PIC OF THE DAY 2,0,0,0,0
+Enthu points Day2,0,0,0,0
